@@ -1,2 +1,2 @@
 # rggber-fpga-prj
-Altera QuartusII project folder
+Altera QuartusII project folder.
