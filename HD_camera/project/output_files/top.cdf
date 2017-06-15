@@ -4,7 +4,7 @@ JedecChain;
 	DefaultMfr(6E);
 
 	P ActionCode(Cfg)
-		Device PartName(EP4CE30F23) Path("F:/Owned_Project/Project/RggBer/Demo/alpha/HD_camera/project/output_files/") File("top.sof") MfrSpec(OpMask(1));
+		Device PartName(EP4CE30F23) Path("F:/Owned_Project/Project/RggBer/Demo/rggber-fpga-prj/HD_camera/project/output_files/") File("top.sof") MfrSpec(OpMask(1));
 
 ChainEnd;
 
