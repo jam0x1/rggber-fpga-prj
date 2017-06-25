@@ -4,7 +4,7 @@ Altera QuartusII project folder.
 - ## rggber-fpga-prj/ADAS
 
   This is FPGA project for ADAS applications. User needs 2 RGGBers for this demo. Download this project to the RGGBers controlled by Android App. The project in
-  [HD_camera] [1] folder should be downloaded to another RGGBer.
+  [HD_camera][1] folder should be downloaded to another RGGBer.
 
 - ## rggber-fpga-prj/HDMI_graphics_card
 
